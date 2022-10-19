@@ -1,4 +1,4 @@
-## <img src="Logo3.png" alt="logo" width="25" height="25"/> Hi there 👋
+## Hi there 👋
 
 
 NET-RMSI (Networked remote management server interface) is a opensource, cheap to deploy alternative to traditional enterprise solutions commonly found on server hardware that consumer hardware lacks.
