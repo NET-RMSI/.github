@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
+NET-RMSI (Networked remote management server interface) is a opensource, cheap to deploy alternative to traditional enterprise solutions commonly found on server hardware that consumer hardware lacks.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The project consists of many different applications that work together to allow remote management of consumer servers and computers:
+- [NET-RMSI_Client](https://github.com/NET-RMSI/NET-RMSI_Client) - The software which is deployed on the microcontroller embedded in the actual hardware.
+- [NET-RMSI_SRV_Py](https://github.com/NET-RMSI/NET-RMSI_Srv_Py) - The software which is deployed on the server hardware such as a raspberrypi. The server manages communication between controller and controlled clients along with storing connection information as well as versioning checking.
+- [NET-RMSI_Bot](https://github.com/NET-RMSI/NET-RMSI_Bot/) - The software which allows for the server to be controlled through a discord/slack integration.
