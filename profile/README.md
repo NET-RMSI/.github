@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-NET-RMSI (Networked remote management server interface) is a opensource, cheap to deploy alternative to traditional enterprise solutions commonly found on server hardware that consumer hardware lacks.
+NET-RMSI (Networked remote management server interface) is a opensource, inexpensive to deploy alternative to traditional enterprise solutions commonly found on server hardware that consumer hardware lacks.
 
 The project consists of many different applications that work together to allow remote management of consumer servers and computers:
 - [NET-RMSI_Client](https://github.com/NET-RMSI/NET-RMSI_Client) - The software which is deployed on the microcontroller embedded in the actual hardware.
